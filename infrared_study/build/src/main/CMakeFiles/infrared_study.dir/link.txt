@@ -1,0 +1,1 @@
+arm-none-linux-gnueabi-gcc     CMakeFiles/infrared_study.dir/main.c.o CMakeFiles/infrared_study.dir/ir_study.c.o  -o ../../../bin/infrared_study -rdynamic -L/home/flx/developer/workspace_c/infrared_study/lib -Wl,-Bstatic -lutils -ldevice -lprotocol -Wl,-Bdynamic -ldl -lpthread -Wl,-rpath,/home/flx/developer/workspace_c/infrared_study/lib 

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libdevice.a  CMakeFiles/device.dir/led.c.o CMakeFiles/device.dir/serial.c.o CMakeFiles/device.dir/key_reset.c.o CMakeFiles/device.dir/infrared.c.o
+/usr/bin/ranlib ../../../lib/libdevice.a

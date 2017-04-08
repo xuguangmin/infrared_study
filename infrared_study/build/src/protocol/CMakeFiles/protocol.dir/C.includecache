@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flx/developer/workspace_c/infrared_study/src/protocol/protocol.c
+stdio.h
+-
+string.h
+-
+protocol.h
+/home/flx/developer/workspace_c/infrared_study/src/protocol/protocol.h
+
+/home/flx/developer/workspace_c/infrared_study/src/protocol/protocol.h
+protocol_define.h
+/home/flx/developer/workspace_c/infrared_study/src/protocol/protocol_define.h
+
+/home/flx/developer/workspace_c/infrared_study/src/protocol/protocol_define.h
+

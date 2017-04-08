@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libprotocol.a  CMakeFiles/protocol.dir/protocol.c.o
+/usr/bin/ranlib ../../../lib/libprotocol.a

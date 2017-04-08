@@ -1,0 +1,4 @@
+/home/flx/developer/workspace_c/infrared_study/build/src/device/CMakeFiles/device.dir
+/home/flx/developer/workspace_c/infrared_study/build/src/main/CMakeFiles/infrared_study.dir
+/home/flx/developer/workspace_c/infrared_study/build/src/protocol/CMakeFiles/protocol.dir
+/home/flx/developer/workspace_c/infrared_study/build/src/utils/CMakeFiles/utils.dir
